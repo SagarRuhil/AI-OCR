@@ -88,3 +88,19 @@ Example response:
 - Batch uploads
 - Result history (local-only)
 - Built-in rotate/crop tools
+
+Samples 
+
+This is how the website look like
+<img width="1381" height="850" alt="image" src="https://github.com/user-attachments/assets/8fd29759-ae6f-45ab-957c-39342ea89f81" />
+
+
+Test Image
+![sample_image](https://github.com/user-attachments/assets/8b884a41-515e-463d-9bfb-bd81440400ea)
+
+Output Screenshot
+
+<img width="1267" height="696" alt="image" src="https://github.com/user-attachments/assets/f203d7d4-bd25-48c1-8382-64cc311f977d" />
+
+
+
