@@ -1,3 +1,5 @@
+To visit the live website. Visit https://ocrextractor.vercel.app/
+
 # OCR Image Text Extraction (Printed + Handwritten/Cursive)
 
 A fast, minimal website to extract text from images (including cursive handwriting) using Groq’s multimodal vision models. Upload an image, click Extract, copy or download the result. Built with Next.js App Router and designed for accuracy, speed, and a clean UI.
